@@ -2,7 +2,7 @@ import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import { Col } from 'react-bootstrap';
 
-export const ProjectCard = ({ title, description }) => {
+export const ProjectCard = ({ title, description, link }) => {
   return (
     <Col size={12} sm={6} md={4}>
       <Card
@@ -19,6 +19,7 @@ export const ProjectCard = ({ title, description }) => {
             <Button
               style={{ backgroundColor: 'black', borderColor: '#ff9800' }}
               className='rounded-pill px-4 py-2 hover-bg-light'
+              href={link}
             >
               Explore More
             </Button>
