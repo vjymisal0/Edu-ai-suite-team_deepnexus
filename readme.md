@@ -59,7 +59,7 @@ If you have any questions or would like to reach out, feel free to contact us:
 
 | Member Name   | Email                 | GitHub Profile                      |
 |---------------|-----------------------|-------------------------------------|
-| Rinkal Mav      | rinkalmav7666@gmail.com | [Rinnkal-27](https://github.com/Rinkal-27) |
+| Rinkal Mav      | rinkalmav7666@gmail.com | [Rinkal-27](https://github.com/Rinkal-27) |
 | Creflo Coelho    | creflo.c05@gmail.com| [Nycto-c05](https://github.com/Nycto-c05) |
 | Vijay Misal  | misalvijay153@gmail.com | [vjymisal0](https://github.com/vjymisal0) |
 
