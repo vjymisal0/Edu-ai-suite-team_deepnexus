@@ -57,7 +57,7 @@ export const Banner = () => {
                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                   <h1>{`EduAI Suite`} </h1>
                   <h2>by Team DeepNexus </h2>
-                  <p>An One-Stop-Platform for all AI Educational Tool</p>
+                  <p>Empowering Students with AI-Driven Learning Solutions!</p>
                 </div>}
             </TrackVisibility>
           </Col>
